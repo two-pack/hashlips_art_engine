@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #11",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "dna": "0a1a3cf8adfa5945567ab60595d2d0157cd16e0e",
+  "edition": 11,
+  "date": 1686488771273,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Left Leg",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Right Leg",
+      "value": "Yellow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

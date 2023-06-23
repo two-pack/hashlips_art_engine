@@ -50,6 +50,7 @@ build/Release
 # Dependency directories
 
 build/
+export/
 dist/
 node_modules/
 jspm_packages/

@@ -1,27 +1,19 @@
 [
   {
-    "name": "Your Collection #1",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/1.png",
-    "dna": "01e2b3a793fae036bfedd82909dbaa0820aae46b",
+    "name": "Example: Stick Figure 1 #1",
+    "description": "This is the first step in web3.",
+    "image": "/1.png",
+    "dna": "7665d15abe43f3d9126228c73df3317bb5820dd8",
     "edition": 1,
-    "date": 1686488771018,
+    "date": 1687610630273,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Right Arm",
@@ -35,12 +27,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #2",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/2.png",
-    "dna": "77b3e1a8c188be8e96454801e19afdb6d93ed6c1",
+    "name": "Example: Stick Figure 1 #2",
+    "description": "This is the first step in web3.",
+    "image": "/2.png",
+    "dna": "427f364e7d26755089290a80c248b3f756042bfb",
     "edition": 2,
-    "date": 1686488771042,
+    "date": 1687610630297,
     "attributes": [
       {
         "trait_type": "Head",
@@ -48,15 +40,7 @@
       },
       {
         "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
         "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
       },
       {
         "trait_type": "Right Arm",
@@ -70,12 +54,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #3",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/3.png",
-    "dna": "6b5ec5cad6190e8b6c1a47c2f6bbb43e3bb4de85",
+    "name": "Example: Stick Figure 1 #3",
+    "description": "This is the first step in web3.",
+    "image": "/3.png",
+    "dna": "7a30e9869b8dca3262f3db9e7e121b2d6a552d4b",
     "edition": 3,
-    "date": 1686488771068,
+    "date": 1687610630316,
     "attributes": [
       {
         "trait_type": "Head",
@@ -83,19 +67,11 @@
       },
       {
         "trait_type": "Body",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Arm",
         "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
@@ -105,12 +81,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #4",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/4.png",
-    "dna": "91d79d52f34919e55aee6815f2e57017a659dbb7",
+    "name": "Example: Stick Figure 1 #4",
+    "description": "This is the first step in web3.",
+    "image": "/4.png",
+    "dna": "591d02e185d84132fed940ed4d8032f21a68617f",
     "edition": 4,
-    "date": 1686488771092,
+    "date": 1687610630336,
     "attributes": [
       {
         "trait_type": "Head",
@@ -119,14 +95,6 @@
       {
         "trait_type": "Body",
         "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
       },
       {
         "trait_type": "Right Arm",
@@ -140,82 +108,66 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #5",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/5.png",
-    "dna": "cb89f0e50cf0a509db7d2183e371b2fc5a4678d0",
+    "name": "Example: Stick Figure 1 #5",
+    "description": "This is the first step in web3.",
+    "image": "/5.png",
+    "dna": "34d0114aea239d45fde2e2c7627e60dabe732b69",
     "edition": 5,
-    "date": 1686488771116,
+    "date": 1687610630355,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Leg",
         "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Yellow"
+        "value": "Blue"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #6",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/6.png",
-    "dna": "fb8d5f882a0e83d58323efe9958a0839256fcdd1",
+    "name": "Example: Stick Figure 1 #6",
+    "description": "This is the first step in web3.",
+    "image": "/6.png",
+    "dna": "0e4fa55fe9399ddb7529d3ac6dca6b32755b6bc5",
     "edition": 6,
-    "date": 1686488771140,
+    "date": 1687610630375,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Yellow"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #7",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/7.png",
-    "dna": "6ad3be0a1edc6f117dd6c31875ac8deaf1d318e4",
+    "name": "Example: Stick Figure 1 #7",
+    "description": "This is the first step in web3.",
+    "image": "/7.png",
+    "dna": "9c402f7fdb4d2bffdf80aa4a699bf6e3fc656643",
     "edition": 7,
-    "date": 1686488771164,
+    "date": 1687610630396,
     "attributes": [
       {
         "trait_type": "Head",
@@ -226,82 +178,58 @@
         "value": "Blue"
       },
       {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
         "trait_type": "Right Arm",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Red"
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #8",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/8.png",
-    "dna": "914a9b4cb1864491dea6e3000675e732364acdc5",
+    "name": "Example: Stick Figure 1 #8",
+    "description": "This is the first step in web3.",
+    "image": "/8.png",
+    "dna": "17ccd8b49d2ac98bee742b52b419c2fd55dac0e9",
     "edition": 8,
-    "date": 1686488771192,
+    "date": 1687610630415,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
         "value": "Red"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Yellow"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #9",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/9.png",
-    "dna": "36814a3bbae313181ca672cc6688119df0bfa463",
+    "name": "Example: Stick Figure 1 #9",
+    "description": "This is the first step in web3.",
+    "image": "/9.png",
+    "dna": "2b288f2706fd534c7eae2212b66a126eaa978d63",
     "edition": 9,
-    "date": 1686488771219,
+    "date": 1687610630435,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
@@ -315,28 +243,20 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #10",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/10.png",
-    "dna": "cd406cc07f960ccd99131825b309271dd83cc604",
+    "name": "Example: Stick Figure 1 #10",
+    "description": "This is the first step in web3.",
+    "image": "/10.png",
+    "dna": "044cdc7c672674d400488c43557d30b205007d80",
     "edition": 10,
-    "date": 1686488771249,
+    "date": 1687610630456,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Arm",
@@ -344,30 +264,30 @@
       },
       {
         "trait_type": "Right Leg",
-        "value": "Red"
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #11",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/11.png",
-    "dna": "0a1a3cf8adfa5945567ab60595d2d0157cd16e0e",
+    "name": "Example: Stick Figure 1 #11",
+    "description": "This is the first step in web3.",
+    "image": "/11.png",
+    "dna": "ebaa6e2028a1540299ae3a613f7dcc22b63a20f9",
     "edition": 11,
-    "date": 1686488771273,
+    "date": 1687610630480,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Yellow"
+        "value": "Blue"
       },
       {
         "trait_type": "Left Leg",
@@ -375,34 +295,34 @@
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Yellow"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #12",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/12.png",
-    "dna": "da8aeb7830b5344b96ca23e8d818770965ea602d",
+    "name": "Example: Stick Figure 1 #12",
+    "description": "This is the first step in web3.",
+    "image": "/12.png",
+    "dna": "0d1a5e936dd9e7b31b3b6b757f9d7debbbb326a1",
     "edition": 12,
-    "date": 1686488771293,
+    "date": 1687610630500,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
+        "value": "Blue"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Leg",
@@ -410,22 +330,22 @@
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Red"
+        "value": "Blue"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #13",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/13.png",
-    "dna": "a1a36c3df5906a42240ecef24d222b135a90ff55",
+    "name": "Example: Stick Figure 1 #13",
+    "description": "This is the first step in web3.",
+    "image": "/13.png",
+    "dna": "8cc79631cfa3178bfa858a70c2265b5a2908002a",
     "edition": 13,
-    "date": 1686488771313,
+    "date": 1687610630523,
     "attributes": [
       {
         "trait_type": "Head",
@@ -433,42 +353,7 @@
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
         "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #14",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/14.png",
-    "dna": "8b1d4ac4eb7a8e7e12ed2c984beb00a348f17fd7",
-    "edition": 14,
-    "date": 1686488771333,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Blue"
       },
       {
         "trait_type": "Left Arm",
@@ -476,7 +361,7 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
@@ -490,20 +375,55 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #15",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/15.png",
+    "name": "Example: Stick Figure 1 #14",
+    "description": "This is the first step in web3.",
+    "image": "/14.png",
     "dna": "03b6618aa39daff6e652ab06d8529167e3b1e44a",
+    "edition": 14,
+    "date": 1687610630546,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Right Leg",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #15",
+    "description": "This is the first step in web3.",
+    "image": "/15.png",
+    "dna": "559a1909a9b3097408906e62ff254aab37de3fbc",
     "edition": 15,
-    "date": 1686488771356,
+    "date": 1687610630570,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Left Arm",
@@ -525,222 +445,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #16",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/16.png",
-    "dna": "91ec182ebda3bf87d06173b7e13d208daf173a08",
+    "name": "Example: Stick Figure 1 #16",
+    "description": "This is the first step in web3.",
+    "image": "/16.png",
+    "dna": "80c3dedec33b86dcdfddde6a0bdc237b56b4263d",
     "edition": 16,
-    "date": 1686488771378,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #17",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/17.png",
-    "dna": "551728ba4f709b7e16c79f03c0325574e2ac0700",
-    "edition": 17,
-    "date": 1686488771400,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #18",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/18.png",
-    "dna": "bd08b3b4345520199983f6e992f4f15adcbf247a",
-    "edition": 18,
-    "date": 1686488771421,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #19",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/19.png",
-    "dna": "8e7c53e5cccb335b1e0bb298c56d4ba09fe1cfdd",
-    "edition": 19,
-    "date": 1686488771442,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #20",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/20.png",
-    "dna": "cc8305f35e2e57ca3d28512c36883c364ad2e7c4",
-    "edition": 20,
-    "date": 1686488771460,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #21",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/21.png",
-    "dna": "20b529ef700c89de200cbb25e54ba6adde2b5c2d",
-    "edition": 21,
-    "date": 1686488771481,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #22",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/22.png",
-    "dna": "7e62f69668dfc87860013325eb9d8d4bed96c29f",
-    "edition": 22,
-    "date": 1686488771511,
+    "date": 1687610630589,
     "attributes": [
       {
         "trait_type": "Head",
@@ -760,41 +470,6 @@
       },
       {
         "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #23",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/23.png",
-    "dna": "966d050cbdd7733db952da733e0bbcfa01adda63",
-    "edition": 23,
-    "date": 1686488771542,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
         "value": "Yellow"
       },
       {
@@ -805,156 +480,345 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #24",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/24.png",
-    "dna": "643a68a67f7668673b590c3f48485b7b3d30fc4b",
-    "edition": 24,
-    "date": 1686488771577,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #25",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/25.png",
-    "dna": "eef14677258db34e20051e9a542a479b143dfe51",
-    "edition": 25,
-    "date": 1686488771596,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #26",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/26.png",
-    "dna": "12107f9ddeaa56e9738b73b5e1cbdf41efb72257",
-    "edition": 26,
-    "date": 1686488771619,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #27",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/27.png",
-    "dna": "c2ac65dbe53a15cb8cc82eb0d549b650b1bcba8a",
-    "edition": 27,
-    "date": 1686488771639,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #28",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/28.png",
+    "name": "Example: Stick Figure 1 #17",
+    "description": "This is the first step in web3.",
+    "image": "/17.png",
     "dna": "d8260585ced582474d5c769a6f2e22e1356da8cf",
+    "edition": 17,
+    "date": 1687610630608,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Right Leg",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #18",
+    "description": "This is the first step in web3.",
+    "image": "/18.png",
+    "dna": "fba012bcfcc04c6936909fbe1d6575453a3b89a0",
+    "edition": 18,
+    "date": 1687610630627,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Right Leg",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #19",
+    "description": "This is the first step in web3.",
+    "image": "/19.png",
+    "dna": "e7dfca565bd4b6a40bc0d30f4498ecf3fb345f50",
+    "edition": 19,
+    "date": 1687610630646,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Right Leg",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #20",
+    "description": "This is the first step in web3.",
+    "image": "/20.png",
+    "dna": "2a2e29a36e1d69c9e35aa8b2b61ccdb83dd0935d",
+    "edition": 20,
+    "date": 1687610630666,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Right Leg",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #21",
+    "description": "This is the first step in web3.",
+    "image": "/21.png",
+    "dna": "6c83c85bc3e2f36ed8ccdfc11c96f01cbf27c9e8",
+    "edition": 21,
+    "date": 1687610630683,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #22",
+    "description": "This is the first step in web3.",
+    "image": "/22.png",
+    "dna": "db8565d11c37c6c8ba1531ccfcdd9723c82de8bf",
+    "edition": 22,
+    "date": 1687610630700,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #23",
+    "description": "This is the first step in web3.",
+    "image": "/23.png",
+    "dna": "f586642b3ac51ec55a8e0c1dd7bfd6d2095cd982",
+    "edition": 23,
+    "date": 1687610630717,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #24",
+    "description": "This is the first step in web3.",
+    "image": "/24.png",
+    "dna": "5e7c5bd1a5b573f9c81c738600089cf641a9ea6a",
+    "edition": 24,
+    "date": 1687610630735,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #25",
+    "description": "This is the first step in web3.",
+    "image": "/25.png",
+    "dna": "ce3f9e7064a62e6f38192334b10476fe369b955f",
+    "edition": 25,
+    "date": 1687610630755,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #26",
+    "description": "This is the first step in web3.",
+    "image": "/26.png",
+    "dna": "87791702a373843cff67d41a3da8e3a7af797da8",
+    "edition": 26,
+    "date": 1687610630774,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #27",
+    "description": "This is the first step in web3.",
+    "image": "/27.png",
+    "dna": "8d03f8d16d1a130d688c48667f2b97df5ee055d0",
+    "edition": 27,
+    "date": 1687610630794,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Example: Stick Figure 1 #28",
+    "description": "This is the first step in web3.",
+    "image": "/28.png",
+    "dna": "85be117d711c048a0ea3368426266aa220a9adcd",
     "edition": 28,
-    "date": 1686488771659,
+    "date": 1687610630813,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Body",
@@ -966,341 +830,45 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
         "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #29",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/29.png",
-    "dna": "85412cba88944b049457b4898e30df7cd552ff51",
+    "name": "Example: Stick Figure 1 #29",
+    "description": "This is the first step in web3.",
+    "image": "/29.png",
+    "dna": "d494e6a14c93a60a4cc090069804d9c798625a9b",
     "edition": 29,
-    "date": 1686488771685,
+    "date": 1687610630832,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
+        "value": "Blue"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #30",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/30.png",
-    "dna": "ebe52c94dc0c4387908e429c9ed9f63445fa61ec",
+    "name": "Example: Stick Figure 1 #30",
+    "description": "This is the first step in web3.",
+    "image": "/30.png",
+    "dna": "055d531792ce320c0e19e6f626ccb4751225147a",
     "edition": 30,
-    "date": 1686488771711,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #31",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/31.png",
-    "dna": "68c9e7102a8d63589c1275c498e540ddd2e02052",
-    "edition": 31,
-    "date": 1686488771732,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #32",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/32.png",
-    "dna": "44771a10c8cc8932d84b3e8c7b72cd21efa4bda7",
-    "edition": 32,
-    "date": 1686488771752,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #33",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/33.png",
-    "dna": "ff0dca847e9622d12312f78bb876fa09915b3f3e",
-    "edition": 33,
-    "date": 1686488771774,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #34",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/34.png",
-    "dna": "04c493eefda6b85b5b063a4cfe10bc41773d3348",
-    "edition": 34,
-    "date": 1686488771795,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #35",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/35.png",
-    "dna": "4f51d20f2fd470c67cae0bc9ecc99a16c075a028",
-    "edition": 35,
-    "date": 1686488771821,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #36",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/36.png",
-    "dna": "880a7299a92ee340cc2af5910959818a64545905",
-    "edition": 36,
-    "date": 1686488771841,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #37",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/37.png",
-    "dna": "cc2f381da94e4e0fa3374ff660c891a04c027e91",
-    "edition": 37,
-    "date": 1686488771859,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #38",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/38.png",
-    "dna": "f62612551d179075d14562483fde1bcd3172f34d",
-    "edition": 38,
-    "date": 1686488771878,
+    "date": 1687610630850,
     "attributes": [
       {
         "trait_type": "Head",
@@ -1317,434 +885,6 @@
       {
         "trait_type": "Left Leg",
         "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #39",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/39.png",
-    "dna": "a3949478516398d320862ba309a400a42c53fe70",
-    "edition": 39,
-    "date": 1686488771897,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #40",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/40.png",
-    "dna": "00c04a53023b1636050faad38af943add6a2338b",
-    "edition": 40,
-    "date": 1686488771919,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #41",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/41.png",
-    "dna": "1d952529a9e2ecc3978d75ca0a8eaf453c39bfbd",
-    "edition": 41,
-    "date": 1686488771939,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #42",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/42.png",
-    "dna": "23a56e661c8c2d339b75592dbf6eb101d4de8a19",
-    "edition": 42,
-    "date": 1686488771958,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #43",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/43.png",
-    "dna": "65e3f1fe621adc8429b4dfecde9536b768cab066",
-    "edition": 43,
-    "date": 1686488771977,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #44",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/44.png",
-    "dna": "fb47372f28af2b842c8f54684a7cc1b3b415eebb",
-    "edition": 44,
-    "date": 1686488771996,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #45",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/45.png",
-    "dna": "654b41ee8c58c3536797285366cc483fea6befe5",
-    "edition": 45,
-    "date": 1686488772018,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #46",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/46.png",
-    "dna": "da1990b4631652f8124594f28f58fb90fccc1a29",
-    "edition": 46,
-    "date": 1686488772040,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #47",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/47.png",
-    "dna": "56f63968274c083c59951ec00142a0c713efe430",
-    "edition": 47,
-    "date": 1686488772061,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #48",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/48.png",
-    "dna": "7a51cd265d5a802388449a041f0b6cbdd0372fc0",
-    "edition": 48,
-    "date": 1686488772080,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #49",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/49.png",
-    "dna": "f69746739d1c2f389c586d6b1c71aa68070ed10d",
-    "edition": 49,
-    "date": 1686488772099,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #50",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/50.png",
-    "dna": "2d5a01847c6abee7a9cb209036633250c7cbc211",
-    "edition": 50,
-    "date": 1686488772123,
-    "attributes": [
-      {
-        "trait_type": "Head",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Right Leg",
-        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"

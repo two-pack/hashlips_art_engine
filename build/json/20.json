@@ -1,10 +1,10 @@
 {
-  "name": "Your Collection #20",
-  "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/20.png",
-  "dna": "cc8305f35e2e57ca3d28512c36883c364ad2e7c4",
+  "name": "Example: Stick Figure 1 #20",
+  "description": "This is the first step in web3.",
+  "image": "/20.png",
+  "dna": "2a2e29a36e1d69c9e35aa8b2b61ccdb83dd0935d",
   "edition": 20,
-  "date": 1686488771460,
+  "date": 1687610630666,
   "attributes": [
     {
       "trait_type": "Head",
@@ -12,15 +12,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Yellow"
+      "value": "Blue"
     },
     {
       "trait_type": "Left Leg",
-      "value": "Yellow"
+      "value": "Red"
     },
     {
       "trait_type": "Right Arm",

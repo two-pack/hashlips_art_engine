@@ -1,22 +1,22 @@
 {
-  "name": "Your Collection #12",
-  "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/12.png",
-  "dna": "da8aeb7830b5344b96ca23e8d818770965ea602d",
+  "name": "Example: Stick Figure 1 #12",
+  "description": "This is the first step in web3.",
+  "image": "/12.png",
+  "dna": "0d1a5e936dd9e7b31b3b6b757f9d7debbbb326a1",
   "edition": 12,
-  "date": 1686488771293,
+  "date": 1687610630500,
   "attributes": [
     {
       "trait_type": "Head",
-      "value": "Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow"
+      "value": "Blue"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Blue"
+      "value": "Yellow"
     },
     {
       "trait_type": "Left Leg",
@@ -24,11 +24,11 @@
     },
     {
       "trait_type": "Right Arm",
-      "value": "Yellow"
+      "value": "Red"
     },
     {
       "trait_type": "Right Leg",
-      "value": "Red"
+      "value": "Blue"
     }
   ],
   "compiler": "HashLips Art Engine"

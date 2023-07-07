@@ -21,7 +21,8 @@
     "preview_gif": "node utils/preview_gif.js",
     "generate_metadata": "node utils/generate_metadata.js",
     "merge": "node utils/merge.js",
-    "export_thirdweb": "node utils/export_thirdweb.js"
+    "export_thirdweb": "node utils/export_thirdweb.js",
+    "rebuild": "node utils/rebuild.js"
   },
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",

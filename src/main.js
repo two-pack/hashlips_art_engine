@@ -122,10 +122,10 @@ const incompatibleTraitsSetup = (layers = [], incompatibleTraits = []) =>
     })
   );
 
-const saveImage = (_editionCount) => {
+const saveImage = (_canvas, _editionCount) => {
   fs.writeFileSync(
     `${buildDir}/images/${_editionCount}.png`,
-    canvas.toBuffer("image/png")
+    _canvas.toBuffer("image/png")
   );
 };
 
@@ -135,9 +135,9 @@ const genColor = () => {
   return pastel;
 };
 
-const drawBackground = () => {
-  ctx.fillStyle = background.static ? background.default : genColor();
-  ctx.fillRect(0, 0, format.width, format.height);
+const drawBackground = (_ctx) => {
+  _ctx.fillStyle = background.static ? background.default : genColor();
+  _ctx.fillRect(0, 0, format.width, format.height);
 };
 
 const addMetadata = (_dna, _edition) => {
@@ -202,25 +202,26 @@ const loadLayerImg = async (_layer) => {
   }
 };
 
-const addText = (_sig, x, y, size) => {
-  ctx.fillStyle = text.color;
-  ctx.font = `${text.weight} ${size}pt ${text.family}`;
-  ctx.textBaseline = text.baseline;
-  ctx.textAlign = text.align;
-  ctx.fillText(_sig, x, y);
+const addText = (_ctx, _sig, x, y, size) => {
+  _ctx.fillStyle = text.color;
+  _ctx.font = `${text.weight} ${size}pt ${text.family}`;
+  _ctx.textBaseline = text.baseline;
+  _ctx.textAlign = text.align;
+  _ctx.fillText(_sig, x, y);
 };
 
-const drawElement = (_renderObject, _index, _layersLen) => {
-  ctx.globalAlpha = _renderObject.layer.opacity;
-  ctx.globalCompositeOperation = _renderObject.layer.blend;
+const drawElement = (_ctx, _renderObject, _index, _layersLen) => {
+  _ctx.globalAlpha = _renderObject.layer.opacity;
+  _ctx.globalCompositeOperation = _renderObject.layer.blend;
   text.only
     ? addText(
+        _ctx,
         `${_renderObject.layer.name}${text.spacer}${_renderObject.layer.selectedElement.name}`,
         text.xGap,
         text.yGap * (_index + 1),
         text.size
       )
-    : ctx.drawImage(
+    : _ctx.drawImage(
         _renderObject.loadedImage,
         0,
         0,
@@ -432,10 +433,11 @@ const startCreating = async () => {
           hashlipsGiffer.start();
         }
         if (background.generate) {
-          drawBackground();
+          drawBackground(ctx);
         }
         renderObjectArray.forEach((renderObject, index) => {
           drawElement(
+            ctx,
             renderObject,
             index,
             layerConfigurations[layerConfigIndex].layersOrder.length
@@ -450,7 +452,7 @@ const startCreating = async () => {
         debugLogs
           ? console.log("Editions left to create: ", abstractedIndexes)
           : null;
-        saveImage(abstractedIndexes[0]);
+        saveImage(canvas, abstractedIndexes[0]);
         addMetadata(newDna, abstractedIndexes[0]);
         saveMetaDataSingleFile(abstractedIndexes[0]);
         console.log(
@@ -468,4 +470,13 @@ const startCreating = async () => {
   writeMetaData(JSON.stringify(metadataList, null, 2));
 };
 
-module.exports = { startCreating, buildSetup, getElements };
+module.exports = {
+  startCreating,
+  buildSetup,
+  getElements,
+  layersSetup,
+  saveImage,
+  drawBackground,
+  loadLayerImg,
+  drawElement,
+};

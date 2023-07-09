@@ -2,17 +2,17 @@
   "name": "Example: Stick Figure 1 #25",
   "description": "This is the first step in web3.",
   "image": "/25.png",
-  "dna": "ce3f9e7064a62e6f38192334b10476fe369b955f",
+  "dna": "7a27236dfb4a201a4aa496cf2191b3230e8f57f6",
   "edition": 25,
-  "date": 1687610630755,
+  "date": 1688874248162,
   "attributes": [
     {
       "trait_type": "Head",
-      "value": "Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Red"
+      "value": "Yellow"
     },
     {
       "trait_type": "Left Arm",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Left Leg",
-      "value": "Yellow"
+      "value": "Blue"
     }
   ],
   "compiler": "HashLips Art Engine"

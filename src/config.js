@@ -91,8 +91,8 @@ const pixelFormat = {
 const background = {
   generate: true,
   brightness: "80%",
-  static: false,
-  default: "#000000",
+  static: true,
+  default: "#cccccc",
 };
 
 const extraMetadata = {};

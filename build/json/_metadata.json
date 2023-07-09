@@ -3,17 +3,17 @@
     "name": "Example: Stick Figure 1 #1",
     "description": "This is the first step in web3.",
     "image": "/1.png",
-    "dna": "7665d15abe43f3d9126228c73df3317bb5820dd8",
+    "dna": "35c39143b69858b27a7c21fe6ef7d450d7193f55",
     "edition": 1,
-    "date": 1687610630273,
+    "date": 1688874247640,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
@@ -21,7 +21,7 @@
       },
       {
         "trait_type": "Right Leg",
-        "value": "Yellow"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -30,13 +30,13 @@
     "name": "Example: Stick Figure 1 #2",
     "description": "This is the first step in web3.",
     "image": "/2.png",
-    "dna": "427f364e7d26755089290a80c248b3f756042bfb",
+    "dna": "ee6247c62e019511112cac6736de93c8a3b0c619",
     "edition": 2,
-    "date": 1687610630297,
+    "date": 1688874247666,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Body",
@@ -44,11 +44,11 @@
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Red"
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -57,13 +57,13 @@
     "name": "Example: Stick Figure 1 #3",
     "description": "This is the first step in web3.",
     "image": "/3.png",
-    "dna": "7a30e9869b8dca3262f3db9e7e121b2d6a552d4b",
+    "dna": "427f364e7d26755089290a80c248b3f756042bfb",
     "edition": 3,
-    "date": 1687610630316,
+    "date": 1688874247687,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
@@ -71,11 +71,11 @@
       },
       {
         "trait_type": "Right Arm",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Yellow"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -84,9 +84,9 @@
     "name": "Example: Stick Figure 1 #4",
     "description": "This is the first step in web3.",
     "image": "/4.png",
-    "dna": "591d02e185d84132fed940ed4d8032f21a68617f",
+    "dna": "f09dcd7d4fa8c36cf9a8000cffe0d94d5319b382",
     "edition": 4,
-    "date": 1687610630336,
+    "date": 1688874247710,
     "attributes": [
       {
         "trait_type": "Head",
@@ -94,11 +94,11 @@
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
@@ -111,9 +111,9 @@
     "name": "Example: Stick Figure 1 #5",
     "description": "This is the first step in web3.",
     "image": "/5.png",
-    "dna": "34d0114aea239d45fde2e2c7627e60dabe732b69",
+    "dna": "7a30e9869b8dca3262f3db9e7e121b2d6a552d4b",
     "edition": 5,
-    "date": 1687610630355,
+    "date": 1688874247734,
     "attributes": [
       {
         "trait_type": "Head",
@@ -129,7 +129,7 @@
       },
       {
         "trait_type": "Right Leg",
-        "value": "Blue"
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -138,13 +138,13 @@
     "name": "Example: Stick Figure 1 #6",
     "description": "This is the first step in web3.",
     "image": "/6.png",
-    "dna": "0e4fa55fe9399ddb7529d3ac6dca6b32755b6bc5",
+    "dna": "d80df3fed2a777b189f3c8926143accaea5f8939",
     "edition": 6,
-    "date": 1687610630375,
+    "date": 1688874247755,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Body",
@@ -156,7 +156,7 @@
       },
       {
         "trait_type": "Right Leg",
-        "value": "Red"
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -165,9 +165,9 @@
     "name": "Example: Stick Figure 1 #7",
     "description": "This is the first step in web3.",
     "image": "/7.png",
-    "dna": "9c402f7fdb4d2bffdf80aa4a699bf6e3fc656643",
+    "dna": "66c662ec3b5614dbd380c250ac79caeac9c1af36",
     "edition": 7,
-    "date": 1687610630396,
+    "date": 1688874247775,
     "attributes": [
       {
         "trait_type": "Head",
@@ -175,11 +175,11 @@
       },
       {
         "trait_type": "Body",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Blue"
       },
       {
         "trait_type": "Right Leg",
@@ -192,25 +192,25 @@
     "name": "Example: Stick Figure 1 #8",
     "description": "This is the first step in web3.",
     "image": "/8.png",
-    "dna": "17ccd8b49d2ac98bee742b52b419c2fd55dac0e9",
+    "dna": "591d02e185d84132fed940ed4d8032f21a68617f",
     "edition": 8,
-    "date": 1687610630415,
+    "date": 1688874247797,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Red"
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -219,17 +219,17 @@
     "name": "Example: Stick Figure 1 #9",
     "description": "This is the first step in web3.",
     "image": "/9.png",
-    "dna": "2b288f2706fd534c7eae2212b66a126eaa978d63",
+    "dna": "8ae75a995d74dc4a1c85937a2503165c9799e68f",
     "edition": 9,
-    "date": 1687610630435,
+    "date": 1688874247817,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Arm",
@@ -237,7 +237,7 @@
       },
       {
         "trait_type": "Right Leg",
-        "value": "Yellow"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -246,17 +246,17 @@
     "name": "Example: Stick Figure 1 #10",
     "description": "This is the first step in web3.",
     "image": "/10.png",
-    "dna": "044cdc7c672674d400488c43557d30b205007d80",
+    "dna": "6015b31eb4eb43dca38268c0630714a3d5a51697",
     "edition": 10,
-    "date": 1687610630456,
+    "date": 1688874247839,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
@@ -275,7 +275,7 @@
     "image": "/11.png",
     "dna": "ebaa6e2028a1540299ae3a613f7dcc22b63a20f9",
     "edition": 11,
-    "date": 1687610630480,
+    "date": 1688874247860,
     "attributes": [
       {
         "trait_type": "Head",
@@ -308,9 +308,9 @@
     "name": "Example: Stick Figure 1 #12",
     "description": "This is the first step in web3.",
     "image": "/12.png",
-    "dna": "0d1a5e936dd9e7b31b3b6b757f9d7debbbb326a1",
+    "dna": "4dbd7f69ed5ae1ce8e46c278a8d63052f933f45a",
     "edition": 12,
-    "date": 1687610630500,
+    "date": 1688874247886,
     "attributes": [
       {
         "trait_type": "Head",
@@ -318,23 +318,23 @@
       },
       {
         "trait_type": "Body",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Arm",
         "value": "Yellow"
       },
       {
+        "trait_type": "Left Arm",
+        "value": "Blue"
+      },
+      {
         "trait_type": "Left Leg",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Leg",
-        "value": "Blue"
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -343,13 +343,13 @@
     "name": "Example: Stick Figure 1 #13",
     "description": "This is the first step in web3.",
     "image": "/13.png",
-    "dna": "8cc79631cfa3178bfa858a70c2265b5a2908002a",
+    "dna": "654b41ee8c58c3536797285366cc483fea6befe5",
     "edition": 13,
-    "date": 1687610630523,
+    "date": 1688874247908,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
@@ -357,15 +357,15 @@
       },
       {
         "trait_type": "Left Arm",
-        "value": "Yellow"
+        "value": "Blue"
       },
       {
         "trait_type": "Left Leg",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
@@ -378,9 +378,9 @@
     "name": "Example: Stick Figure 1 #14",
     "description": "This is the first step in web3.",
     "image": "/14.png",
-    "dna": "03b6618aa39daff6e652ab06d8529167e3b1e44a",
+    "dna": "68bd76811ca1da3cb9b453f6bb4ba7b3d94fc1cf",
     "edition": 14,
-    "date": 1687610630546,
+    "date": 1688874247931,
     "attributes": [
       {
         "trait_type": "Head",
@@ -396,7 +396,7 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
@@ -404,7 +404,7 @@
       },
       {
         "trait_type": "Right Leg",
-        "value": "Yellow"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -413,9 +413,9 @@
     "name": "Example: Stick Figure 1 #15",
     "description": "This is the first step in web3.",
     "image": "/15.png",
-    "dna": "559a1909a9b3097408906e62ff254aab37de3fbc",
+    "dna": "d81a898f752c7d6faa39bc1b0488dae44a245d13",
     "edition": 15,
-    "date": 1687610630570,
+    "date": 1688874247955,
     "attributes": [
       {
         "trait_type": "Head",
@@ -423,11 +423,11 @@
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Leg",
@@ -435,7 +435,7 @@
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
@@ -448,9 +448,9 @@
     "name": "Example: Stick Figure 1 #16",
     "description": "This is the first step in web3.",
     "image": "/16.png",
-    "dna": "80c3dedec33b86dcdfddde6a0bdc237b56b4263d",
+    "dna": "dd7f6d0878f3707a53befd17f79cc013c7935fb6",
     "edition": 16,
-    "date": 1687610630589,
+    "date": 1688874247975,
     "attributes": [
       {
         "trait_type": "Head",
@@ -458,11 +458,11 @@
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Leg",
@@ -470,7 +470,7 @@
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
@@ -483,25 +483,25 @@
     "name": "Example: Stick Figure 1 #17",
     "description": "This is the first step in web3.",
     "image": "/17.png",
-    "dna": "d8260585ced582474d5c769a6f2e22e1356da8cf",
+    "dna": "2d367a912549de5df1e510d3ad3f9b088d130c07",
     "edition": 17,
-    "date": 1687610630608,
+    "date": 1688874247998,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Body",
         "value": "Yellow"
       },
       {
-        "trait_type": "Left Arm",
+        "trait_type": "Body",
         "value": "Blue"
       },
       {
+        "trait_type": "Left Arm",
+        "value": "Yellow"
+      },
+      {
         "trait_type": "Left Leg",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Right Arm",
@@ -509,7 +509,7 @@
       },
       {
         "trait_type": "Right Leg",
-        "value": "Red"
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -518,9 +518,9 @@
     "name": "Example: Stick Figure 1 #18",
     "description": "This is the first step in web3.",
     "image": "/18.png",
-    "dna": "fba012bcfcc04c6936909fbe1d6575453a3b89a0",
+    "dna": "143ad3286173102660d77d32122aef05e56ac0bc",
     "edition": 18,
-    "date": 1687610630627,
+    "date": 1688874248022,
     "attributes": [
       {
         "trait_type": "Head",
@@ -528,23 +528,23 @@
       },
       {
         "trait_type": "Body",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Left Leg",
         "value": "Yellow"
       },
       {
-        "trait_type": "Right Arm",
+        "trait_type": "Left Arm",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Left Leg",
         "value": "Blue"
       },
       {
-        "trait_type": "Right Leg",
+        "trait_type": "Right Arm",
         "value": "Red"
+      },
+      {
+        "trait_type": "Right Leg",
+        "value": "Blue"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -553,17 +553,17 @@
     "name": "Example: Stick Figure 1 #19",
     "description": "This is the first step in web3.",
     "image": "/19.png",
-    "dna": "e7dfca565bd4b6a40bc0d30f4498ecf3fb345f50",
+    "dna": "cef71765533e2dad952e248e99fc11e3b8ce74c0",
     "edition": 19,
-    "date": 1687610630646,
+    "date": 1688874248047,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Arm",
@@ -571,15 +571,15 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Right Arm",
         "value": "Yellow"
       },
       {
-        "trait_type": "Right Leg",
+        "trait_type": "Right Arm",
         "value": "Red"
+      },
+      {
+        "trait_type": "Right Leg",
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -588,29 +588,29 @@
     "name": "Example: Stick Figure 1 #20",
     "description": "This is the first step in web3.",
     "image": "/20.png",
-    "dna": "2a2e29a36e1d69c9e35aa8b2b61ccdb83dd0935d",
+    "dna": "e3ed7ab316dcf1702af63da099486764ef8bbcfb",
     "edition": 20,
-    "date": 1687610630666,
+    "date": 1688874248068,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Leg",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Right Arm",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Right Leg",
@@ -623,17 +623,17 @@
     "name": "Example: Stick Figure 1 #21",
     "description": "This is the first step in web3.",
     "image": "/21.png",
-    "dna": "6c83c85bc3e2f36ed8ccdfc11c96f01cbf27c9e8",
+    "dna": "986d23653c8a377570d9136f132452149e2f58ff",
     "edition": 21,
-    "date": 1687610630683,
+    "date": 1688874248089,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Left Arm",
@@ -641,7 +641,7 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Blue"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -650,17 +650,17 @@
     "name": "Example: Stick Figure 1 #22",
     "description": "This is the first step in web3.",
     "image": "/22.png",
-    "dna": "db8565d11c37c6c8ba1531ccfcdd9723c82de8bf",
+    "dna": "293f04593c661508eb6ef8268a8df2086454ecfc",
     "edition": 22,
-    "date": 1687610630700,
+    "date": 1688874248107,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Left Arm",
@@ -668,7 +668,7 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Yellow"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -677,9 +677,9 @@
     "name": "Example: Stick Figure 1 #23",
     "description": "This is the first step in web3.",
     "image": "/23.png",
-    "dna": "f586642b3ac51ec55a8e0c1dd7bfd6d2095cd982",
+    "dna": "5e7c5bd1a5b573f9c81c738600089cf641a9ea6a",
     "edition": 23,
-    "date": 1687610630717,
+    "date": 1688874248125,
     "attributes": [
       {
         "trait_type": "Head",
@@ -691,11 +691,11 @@
       },
       {
         "trait_type": "Left Arm",
-        "value": "Yellow"
+        "value": "Blue"
       },
       {
         "trait_type": "Left Leg",
-        "value": "Yellow"
+        "value": "Red"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -704,9 +704,9 @@
     "name": "Example: Stick Figure 1 #24",
     "description": "This is the first step in web3.",
     "image": "/24.png",
-    "dna": "5e7c5bd1a5b573f9c81c738600089cf641a9ea6a",
+    "dna": "87791702a373843cff67d41a3da8e3a7af797da8",
     "edition": 24,
-    "date": 1687610630735,
+    "date": 1688874248143,
     "attributes": [
       {
         "trait_type": "Head",
@@ -714,11 +714,11 @@
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Leg",
@@ -731,17 +731,17 @@
     "name": "Example: Stick Figure 1 #25",
     "description": "This is the first step in web3.",
     "image": "/25.png",
-    "dna": "ce3f9e7064a62e6f38192334b10476fe369b955f",
+    "dna": "7a27236dfb4a201a4aa496cf2191b3230e8f57f6",
     "edition": 25,
-    "date": 1687610630755,
+    "date": 1688874248162,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Arm",
@@ -749,7 +749,7 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Yellow"
+        "value": "Blue"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -758,21 +758,21 @@
     "name": "Example: Stick Figure 1 #26",
     "description": "This is the first step in web3.",
     "image": "/26.png",
-    "dna": "87791702a373843cff67d41a3da8e3a7af797da8",
+    "dna": "ab62a6f6b53b396e60eba58f4bd920807d9c0489",
     "edition": 26,
-    "date": 1687610630774,
+    "date": 1688874248187,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Yellow"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Yellow"
+        "value": "Blue"
       },
       {
         "trait_type": "Left Leg",
@@ -785,17 +785,17 @@
     "name": "Example: Stick Figure 1 #27",
     "description": "This is the first step in web3.",
     "image": "/27.png",
-    "dna": "8d03f8d16d1a130d688c48667f2b97df5ee055d0",
+    "dna": "eabdd4654874fd67224397abfc457ecc7830af68",
     "edition": 27,
-    "date": 1687610630794,
+    "date": 1688874248207,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Arm",
@@ -803,7 +803,7 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Red"
+        "value": "Blue"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -812,17 +812,17 @@
     "name": "Example: Stick Figure 1 #28",
     "description": "This is the first step in web3.",
     "image": "/28.png",
-    "dna": "85be117d711c048a0ea3368426266aa220a9adcd",
+    "dna": "9de5f16fed851c97be45a1af2813c640e83235ed",
     "edition": 28,
-    "date": 1687610630813,
+    "date": 1688874248227,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Body",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Left Arm",
@@ -830,7 +830,7 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Red"
+        "value": "Blue"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -839,9 +839,9 @@
     "name": "Example: Stick Figure 1 #29",
     "description": "This is the first step in web3.",
     "image": "/29.png",
-    "dna": "d494e6a14c93a60a4cc090069804d9c798625a9b",
+    "dna": "21c456e8d3c0a5c57c7025e100d2ed36a12ccdff",
     "edition": 29,
-    "date": 1687610630832,
+    "date": 1688874248256,
     "attributes": [
       {
         "trait_type": "Head",
@@ -849,15 +849,15 @@
       },
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Blue"
+        "value": "Red"
       },
       {
         "trait_type": "Left Leg",
-        "value": "Blue"
+        "value": "Yellow"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -866,13 +866,13 @@
     "name": "Example: Stick Figure 1 #30",
     "description": "This is the first step in web3.",
     "image": "/30.png",
-    "dna": "055d531792ce320c0e19e6f626ccb4751225147a",
+    "dna": "6c83c85bc3e2f36ed8ccdfc11c96f01cbf27c9e8",
     "edition": 30,
-    "date": 1687610630850,
+    "date": 1688874248284,
     "attributes": [
       {
         "trait_type": "Head",
-        "value": "Red"
+        "value": "Blue"
       },
       {
         "trait_type": "Body",
@@ -884,7 +884,7 @@
       },
       {
         "trait_type": "Left Leg",
-        "value": "Red"
+        "value": "Blue"
       }
     ],
     "compiler": "HashLips Art Engine"
